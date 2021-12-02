@@ -8,6 +8,4 @@
 export class Pessoa {
     nomePessoa;
     nomeEmpresa;
-    cpf;
-    cnpj;
 }
